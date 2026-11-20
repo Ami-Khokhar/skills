@@ -1,0 +1,4 @@
+interface:
+  display_name: "Intentivals"
+  short_description: "Turn subjective feedback into repeatable checks"
+  default_prompt: "Use $intent-to-evals to help me clarify what good looks like and design checks for it."
