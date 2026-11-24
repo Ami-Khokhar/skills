@@ -19,6 +19,10 @@ When two plausible readings would change what you build or how you judge it,
 show the user the smallest example that makes the difference visible. Ask
 which is closer and why. Leave room for the user to reject both or combine them.
 
+When feedback like “too long” could mean either “cut the detail” or “help me
+find the point sooner,” show both edits of the same passage and ask which is
+closer and why.
+
 State what you learned in the user's terms. If you're unsure whether the
 preference generalizes, predict what the user would prefer in a different
 example and ask what you missed. Stop asking when the remaining uncertainty
